@@ -11,6 +11,7 @@ B. Apakah ada kolom yang memiliki nilai kosong? Jika ada, apa saja?
 Tidak ada data yang kosong 
 
 C. Apakah ada kolom yang memiliki nilai summary agak aneh?
+
 Banyak kolom yang memiliki perbedaan yang sangat signifikan pada nilai mean dan median.
 Nilai unique dan freq cenderung normal, tidak terlalu timpang
 
