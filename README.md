@@ -3,9 +3,13 @@
 
 A. Apakah ada kolom dengan tipe data kurang sesuai, atau nama kolom dan isinya 
 kurang sesuai
+
 Setelah di periksa semua tipe data sudah sesuai yang diperlukan
+
 B. Apakah ada kolom yang memiliki nilai kosong? Jika ada, apa saja?
+
 Tidak ada data yang kosong 
+
 C. Apakah ada kolom yang memiliki nilai summary agak aneh?
 Banyak kolom yang memiliki perbedaan yang sangat signifikan pada nilai mean dan median.
 Nilai unique dan freq cenderung normal, tidak terlalu timpang
